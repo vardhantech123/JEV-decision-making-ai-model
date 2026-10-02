@@ -67,6 +67,3 @@ JEV here stands for a practical decision lens: evaluate options across value, ef
 - Integrate LLM-generated rationale for each option
 - Add monitoring and historical decision logs
 
-## License
-
-This project is released under the MIT License.
